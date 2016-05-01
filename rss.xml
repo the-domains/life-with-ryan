@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Life with ryan]]></title>
+        <description><![CDATA[Life with ryan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 17:41:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First "Photo Shoot"]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02f8125f-19c0-4805-b4c2-bb27c39e130d.jpg">]]></description>
+            <link>undefinedmy-first-photo-shoot/index.html</link>
+            <guid isPermaLink="false">459dcd31-7b49-488e-af80-aecd8c54d2af</guid>
+            <pubDate>Sun, 01 May 2016 17:40:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
