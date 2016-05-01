@@ -1,0 +1,28 @@
+name: Life with ryan
+favicon: null
+layout_spectrum: 0.2103360891342163
+typography_spectrum: 0.28010150301270187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.08655378222465515
+  lightness: 0.5348239673767239
+  saturation: 0.8384514157660306
+  rhythmicContrast: 0.21927199349738657
+purpose: []
